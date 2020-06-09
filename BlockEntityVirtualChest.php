@@ -1,6 +1,6 @@
 <?php
 
-namespace zerosan96\inventories;
+//namespace省略
 
 use pocketmine\Server;
 use pocketmine\Player;
