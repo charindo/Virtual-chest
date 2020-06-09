@@ -24,7 +24,6 @@ use pocketmine\nbt\tag\CompoundTag;
 
 use pocketmine\network\mcpe\protocol\UpdateBlockPacket;
 use pocketmine\network\mcpe\protocol\BlockActorDataPacket;
-use zerosan96\Main;
 
 class BlockEntityVirtualChest extends Vector3 implements InventoryHolder {
 
